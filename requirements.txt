@@ -1,0 +1,15 @@
+# Restaurant Billing Software Requirements
+# All packages are built-in Python libraries - no external dependencies required
+
+# Built-in libraries used:
+# - tkinter (GUI)
+# - sqlite3 (Database)
+# - datetime (Timestamps)
+# - json (Data export)
+# - csv (Data export)
+# - os (File operations)
+
+# Optional packages for enhanced features:
+# pandas>=1.3.0  # For advanced data analysis
+# fpdf2>=2.5.0   # For PDF bill generation
+# reportlab>=3.6.0  # Alternative PDF generation
